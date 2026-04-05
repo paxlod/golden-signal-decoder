@@ -1,0 +1,1 @@
+{"expo": {"name": "Golden Signal Decoder","slug": "golden-signal-decoder","version": "1.0.0","assetBundlePatterns": ["**/*"],"ios": {"bundleIdentifier": "com.paxlod.goldensignaldecoder","supportsTablet": true},"android": {"package": "com.paxlod.goldensignaldecoder"},"plugins": ["expo-router"]}}
